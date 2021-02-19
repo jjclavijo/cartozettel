@@ -1,0 +1,2096 @@
+[
+  {
+    "Title": "Temas de Cartografía",
+    "Text": "Esta nota sirve de base de referencia para ir construyendo. La materia esta dividida en cartografía #matematica, y cartografía #tematica, aunque el tratamiento de #datos puede considerarse un tema aparte en la materia.",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Tuesday, 29 de September de 2020, 15:11"
+  },
+  {
+    "Title": "Cartografía Matemática",
+    "Text": "#0 Siguiendo con el temario, en cartografía #matematica, tratamos sobre #proyecciones, trabajando tranto sobre la tierra como #esfera, y sobre la tierra como #elipsoide.",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Tuesday, 29 de September de 2020, 15:13"
+  },
+  {
+    "Title": "Cartografía Tematica",
+    "Text": "Siguiendo con el temario (#0), la cartografía #tematica se trata de representar #datos que tienen manifestación en el territorio geográfico pero que no son exactamente datos de la geografía.",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Tuesday, 29 de September de 2020, 15:15"
+  },
+  {
+    "Title": "Duda",
+    "Text": "El ejercicio sobre #meridianos y #paralelos , ¿tiene algo que ver con el pdf #EckertIntro ? ¿O es simplemente dibujarlos sobre la superficie terrestre? ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Wednesday, 30 de September de 2020, 12:22"
+  },
+  {
+    "Title": "Coordenadas",
+    "Text": "Las #coordenadas son #parametros que nos permiten ubicarnos y recorrer el espacio ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Wednesday, 30 de September de 2020, 12:26"
+  },
+  {
+    "Title": "Vectores",
+    "Text": "¿Es lo mismo poner el _ arriba en vez de abajo? #vectores #duda ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Wednesday, 30 de September de 2020, 12:28"
+  },
+  {
+    "Title": "Magnitudes ",
+    "Text": "Para encontrar el ángulo entre vectores a partir del producto interno, vale esta formula: https://www.profesor10demates.com/2016/02/angulo-entre-vectores-2.html ? #duda ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Wednesday, 30 de September de 2020, 12:36"
+  },
+  {
+    "Title": "Duda",
+    "Text": "Tengo la misma duda que se planteó en #3 . Se me ocurre un triangulo trigonométrico, aparecen #meridianos y #paralelos, pero no se como calcular las normas de los vectores... #duda",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Wednesday, 30 de September de 2020, 13:05"
+  },
+  {
+    "Title": "Coordenadas",
+    "Text": "Con respecto a lo que se dijo en la nota #4 me gustaría añadir que las #coordenadas #cartesianas son #parametros que recorren el #espacio en base a una base de #vectores #ortonormales",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 15:04"
+  },
+  {
+    "Title": "Vectores",
+    "Text": "Dos #vectores son #ortogonales si y solo si su #producto #interno es 0.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 15:05"
+  },
+  {
+    "Title": "Derivada de un vector",
+    "Text": "Cuando se realiza la #derivada de un #vector con respecto a un #parametro, lo que se obtiene es un #vector que describe el #movimiento por ese #parametro.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 15:09"
+  },
+  {
+    "Title": "Letra Fi ¿Latitud o longitud?",
+    "Text": "No me quedó claro si la letra Fi #φ es la #latitud o la #longitud, ya que en algunas partes del primer video la llamaba latitud pero en otras longitud. Tengo entendido que es la latitud, pero por las dudas quería consultar #duda",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 15:16"
+  },
+  {
+    "Title": "Latitud",
+    "Text": "Respecto a #11 la letra fi se utiliza para la #latitudLa #latitud es el ángulo entre el ecuador y un punto determinado en la tierra medida a lo largo de un #meridiano en el que se encuentra dicho punto.Se expresa en medidas angulares que van de 0 a 90° hacia el polo norte y de 0 a -90° hacia el polo sur.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 30 de September de 2020, 16:04"
+  },
+  {
+    "Title": "Lineas coordenadas",
+    "Text": "Las #lineascoordenadas son líneas de un solo parámetro. Se obtienen variando un parámetro y dejando fijo los demás.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 30 de September de 2020, 16:11"
+  },
+  {
+    "Title": "Vector Base",
+    "Text": "El #vectorbase es aquel que toma la dirección de la #lineacoordenada correspondiente. Es un #vector que se genera al derivar al vector posición con respecto a una #coordenada. #13 #4 #8 #10",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 30 de September de 2020, 16:19"
+  },
+  {
+    "Title": "Magnitudes",
+    "Text": "Según lo visto en el apunte #notas en la pagina 2, vale la formula puesta en la nota #6 para encontrar el ángulo entre #vectores a partir del producto interno.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 30 de September de 2020, 16:35"
+  },
+  {
+    "Title": "Respuesta magnitudes",
+    "Text": "Respecto a la #duda de la nota #6 , en el video de la teoría se cortó pero esa fórmula es la correcta para determinar el ángulo entre dos vectores",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 30 de September de 2020, 16:47"
+  },
+  {
+    "Title": "Distancias",
+    "Text": "Para sacar la distancia, es correcta la fórmula de que es la norma de un vector o la norma de un vector al cuadrado? #duda",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 30 de September de 2020, 17:40"
+  },
+  {
+    "Title": "Cartografía matemática",
+    "Text": "Añadiendo a lo dicho en la nota #1 , al trabajar la tierra como una superficie se busca una #parametrizacion en la cual se mantiene fijo el #parámetro rho, quedando ésta definida solo con dos #parámetros (phi y lambda). ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 30 de September de 2020, 17:50"
+  },
+  {
+    "Title": "Vectores base",
+    "Text": "Para relacionar los #VectoresBase en coordenadas parametrizadas con respecto a los #VectoresBase cartesianos usamos la regla de la cadena  #13 #4 #8 #10 #14",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:12"
+  },
+  {
+    "Title": "Vector base",
+    "Text": "Para añadir a la nota #14 , un vector base describe el movimiento por ese parámetro. (phi, por ejemplo). Además relaciona el movimiento a través de un parámetro de la parametrización elegida con el espacio sobre el que sabemos medir.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:18"
+  },
+  {
+    "Title": "Respuesta",
+    "Text": "Para responder a #5 : si, es lo mismo, es una cuestión de notación.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:21"
+  },
+  {
+    "Title": "Lineas coordenadas",
+    "Text": "Para la parametrización que usamos de la esfera, las líneas coordenadas serán los paralelos y meridianos #13",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:23"
+  },
+  {
+    "Title": "Longitud",
+    "Text": "Para medir una #longitud hay que hallar la integral entre los dos puntos de la norma del vector que parametriza esa trayectoria ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:26"
+  },
+  {
+    "Title": "Coordenadas cartesianas",
+    "Text": "Son parámetros que recorren el espacio basandose en una base de vectores ortonormales, este espacio es conocido y sabemos medir sobre el, es por esto que nos interesa relacionar los distintos vectores  base con este.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:31"
+  },
+  {
+    "Title": "Proyeccion equivalente",
+    "Text": "Complementando al apunte #delatierraalacarta en la pagina 3, cuando se elige f de manera de conservar alguna propiedad deseada, siendo esta la conservación de areas se la denomina #proyeccionequivalente ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 30 de September de 2020, 18:55"
+  },
+  {
+    "Title": "Duda",
+    "Text": "Al final del archivo Clase1_Notas hay un ejercicio. ¿Dónde se debe subir su resolución? ¿o se lo enviamos al correo para que lo vean?",
+    "Autor": "LEITON MATIAS SEBASTIAN DAVID",
+    "Timestamp": "Wednesday, 30 de September de 2020, 21:52"
+  },
+  {
+    "Title": "Ejercicio ",
+    "Text": "No me queda claro qué es lo que debemos hacer en el #ejercicio que esta al final del pdf *nota* .En el punto que debemos dibujar la figura que representa #paralelos y #meridianos, no entiendo qué es lo que debemos dibujar.  #duda",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 23:19"
+  },
+  {
+    "Title": "Transformacion",
+    "Text": "Una #transformacion debe ser #continua , #biunivoca y #analitica (por lo menos por tramos)",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 30 de September de 2020, 23:21"
+  },
+  {
+    "Title": "Clase 1",
+    "Text": "Tengo duda acerca de las condiciones que debe tener la #transformación; o sea qué significa que sea #continua, #biunívoca y #analítica (al menos por tramos).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 1 de October de 2020, 12:11"
+  },
+  {
+    "Title": "Actividad 1",
+    "Text": "No entiendo la última pregunta del #enunciado que dice que si puedo agregar los vectores u y v en el gráfico y cómo lo calcularía numéricamente su magnitud.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 1 de October de 2020, 12:17"
+  },
+  {
+    "Title": "Sobre la Notación",
+    "Text": "#5 #21 Los vectores los anotamos subrayando, #11 #12 para la latitud usamos las letra phi, y para la longitud lambda. Cuando escribimos la norma de un vector siempre asumimos que ya está tomada la raiz #17, si hay un cuadrado se explicita. #23 la palabra Longitud la reservamos para la coordenada, para la medida de una línea utilizamos \"arco de...\", \"largo de...\", \"recorrido de...\" #notación",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Friday, 2 de October de 2020, 11:58"
+  },
+  {
+    "Title": "Sobre Ejercicio en notas...",
+    "Text": "#3 #7 #26 #27 Plantean similares dudas. El ejercicio pide calcular los vectores base partiendo de las derivadas paremétricas, y hallar los módulos aplicando el producto interno. #VectoresBase",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Friday, 2 de October de 2020, 12:19"
+  },
+  {
+    "Title": "Vectores Base ",
+    "Text": "Con respecto a la nota #19 agrego que, cuando el subindice \"i\" es el mismo en el denominador y el numerador, podemos usar el Criterio de Sumación de #Einstein, omitiendo el signo de sumatoria. ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Friday, 2 de October de 2020, 12:54"
+  },
+  {
+    "Title": "Distancias",
+    "Text": "Para calcular la distancia la forma correcta es la norma del #vector SIN elevar al cuadrado #17",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Friday, 2 de October de 2020, 13:01"
+  },
+  {
+    "Title": "Posición de un punto ",
+    "Text": "Podemos definir la posición de un punto r como un juego de coeficientes multiplicados por los #vectoresbase de las coordenadas cartesianas ex, ei, ez. ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Friday, 2 de October de 2020, 13:05"
+  },
+  {
+    "Title": "Coordenadas esféricas",
+    "Text": "Información acerca de las #coordenadasesféricas: https://es.wikipedia.org/wiki/Coordenadas_esf%C3%A9ricas",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 4 de October de 2020, 01:52"
+  },
+  {
+    "Title": "Carta de John Snow",
+    "Text": "Información adicional acerca de la #CartadeJohnSnow: https://www.sac.org.ar/wp-content/uploads/2014/04/690.pdf",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Tuesday, 6 de October de 2020, 11:49"
+  },
+  {
+    "Title": "Propiedades de las proyecciones",
+    "Text": "Para añadir a la nota #25 sobre las propiedades de las #proyecciones: una proyección puede conservar solo una de estas propiedades. Las propiedades son: equivalencia (donde se conservan las areas), equidistancia(donde se conservan las relaciones de longitud, esta propiedad solo se conserva de forma parcial según alguna dirección)  o conformidad (donde se conservan los ángulos).",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 6 de October de 2020, 21:47"
+  },
+  {
+    "Title": "Cartografía Temática",
+    "Text": "Para complementar la nota #2, paso ejemplos de cartografía #tematica: https://es.slideshare.net/moisesjara/algunos-tipos-de-cartografa-temtica   ",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Tuesday, 6 de October de 2020, 22:01"
+  },
+  {
+    "Title": "Superficie coordenada",
+    "Text": "Para aclarar la nota #18 , las coordenadas esféricas definen diferentes #SuperficiesCoordenadas que son las que surgen de mantener una coordenada fija y las otras variables. En este caso, al mantener a rho fijo se forman diferentes esferas. ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 17:58"
+  },
+  {
+    "Title": "Vectores base",
+    "Text": "Los #VectoresBase de las #coordenadasesféricas ( #36 ) forman una base ortogonal porque cumplen con lo dicho en #9 pero no es una base vectorial normal porque los módulos de los vectores base no son todos iguales. #14 #19 #20",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 18:18"
+  },
+  {
+    "Title": "Simbología y correccion de deformaciones. ",
+    "Text": "Si se aplica una corrección de la escala al conjunto de manzanas y calles es porque se desea que cambie su forma. ¿Se desea que la simbología cambie la forma? ¿Qué sucede con las coordenadas de la simbología? ¿Qué medimos sobre la tierra y que cosa no? #Pregunta #Tematica #cartadejohnsnow",
+    "Autor": "HARGUINTEGUY MARIANO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 18:29"
+  },
+  {
+    "Title": "Transformaciones ",
+    "Text": "Phi y lambda pueden o no ser direcciones que describan completamente una #Transformación , sino que se necesita las direcciones en las cuales phi y lambda son ortogonales, las llamadas #DireccionesFundamentales ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 19:04"
+  },
+  {
+    "Title": "Métrica ",
+    "Text": "La matriz métrica está compuesta por el producto interno entre los #VectoresBase de una #Transformación en R2 y es la matriz que nos va a permitir medir ya que el producto interno es el que nos permite definir magnitudes y ángulos. #6 #14 #19 #43",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 19:32"
+  },
+  {
+    "Title": "Direcciones fundamentales ",
+    "Text": "Añadiendo a #43 las #DireccionesFundamentales son aquellas direcciones en que la deformación producida por la #Transformación es máxima y mínima. ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 7 de October de 2020, 19:53"
+  },
+  {
+    "Title": "Duda TP Líneas Coordenadas",
+    "Text": "En el TP de #Líneascoordenadas,¿Tenemos que generar una nueva grilla para u y v?¿O utilizamos las que dan en el ejemplo?",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 8 de October de 2020, 00:07"
+  },
+  {
+    "Title": "Direcciones fundamentales",
+    "Text": "¿Qué notación tienen las #direccionesfundamentales?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 8 de October de 2020, 02:14"
+  },
+  {
+    "Title": "Notación de vectores (1)",
+    "Text": "¿Los vectores que tienen asterisco se refieren a los #vectorestransformados?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 10 de October de 2020, 11:34"
+  },
+  {
+    "Title": "Notación de vectores (2)",
+    "Text": "¿Los vectores que tienen sombrero son aquellos que están en R2?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 10 de October de 2020, 11:37"
+  },
+  {
+    "Title": "Notacion de vectores ",
+    "Text": "Respondiendo a #49 y #48 si según mi entender, la notación de sombrero se utiliza para aquellos #vectores que están ubicados en R2 y la notación de asterisco se utiliza para los vectores transformados",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Sunday, 11 de October de 2020, 21:07"
+  },
+  {
+    "Title": "Direcciones fundamentales ",
+    "Text": "Respondiendo a #47 la notación utilizada para los #vectores de R2 que denominamos #direccionesfundamentales es phi prima y lambda prima. #43 #45",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Sunday, 11 de October de 2020, 21:16"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "El ángulo A utilizado en #52 es el acimut, ángulo que medimos con respecto al norte que tomamos como referencia. #51 #43 #45",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Sunday, 11 de October de 2020, 21:25"
+  },
+  {
+    "Title": "Matriz Métrica",
+    "Text": "Información complementaria a la nota #44 acerca de la #matrizmetrica: http://www.ehu.eus/juancarlos.gorostizaga/apoyo/euclideos.htm",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 11 de October de 2020, 22:48"
+  },
+  {
+    "Title": "Magnitud",
+    "Text": "Para calcular numéricamente la magnitud de un vector u se utiliza su norma ||u|| #30",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Monday, 12 de October de 2020, 00:08"
+  },
+  {
+    "Title": "Transformaciones y deformaciones",
+    "Text": "Nos interesa conocer los vectores base de los distintos sistemas de coordenadas que utilizamos al realizar las #Transformación porque al plantear relaciones entre estos pueden describirla y también a las #deformaciones que producen.#43#44",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 12 de October de 2020, 10:42"
+  },
+  {
+    "Title": "Vectores base de otro sistema de coordenadas",
+    "Text": "Para encontrar los #vectoresbase de cualquier sistema de coordenadas se utiliza la regla de la cadena, teniendo como dato el vector base del sist. de coordenadas cartesianas. #19 ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 15:56"
+  },
+  {
+    "Title": "Vectores base de otro sistema de coordenadas",
+    "Text": "Añadiendo a la #58 los #vectoresbase de otro sistema de coordenadas que no es el cartesiano, quedarán expresados como una combinación lineal de componentes de los vectores base cartesianos.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 16:04"
+  },
+  {
+    "Title": "Coordenadas esféricas",
+    "Text": "El producto interno entre fi y lambda es cero, ya que el sistema de coordenadas es ortogonal. #coordenadasesfericas #41",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 16:21"
+  },
+  {
+    "Title": "Clase 1 - Duda ",
+    "Text": "Respecto a la duda de #28, se dice que una función f:A->B es #inyectiva si f(a)=f(a´). Es decir que elementos diferentes de A van bajo f a elementos diferentes de B. A su vez, una función es suprayectiva si para cada elemento de B hay uno en A que le \"pega\", es decir, si para cada b perteneciente a B existe a perteneciente a A tal que f(a)=b. En este sentido, se llama correspondencia #biunívoca cuando es #inyectiva y suprayectiva. ¿Esto es igual para las transformaciones? #transformación #duda",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 12 de October de 2020, 16:50"
+  },
+  {
+    "Title": "Ejercicio clase 1",
+    "Text": "A partir del ejercicio propuesto para realizar al final de la clase 1, la figura del siguiente link es correcta? https://drive.google.com/drive/folders/1li3srz0DnBE3Fo8pOtgMcBSQphHD2QoG?usp=sharing #duda #coordenadas",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 12 de October de 2020, 17:54"
+  },
+  {
+    "Title": "Simbología y correccion de deformaciones",
+    "Text": "Respecto a lo consultado en la #42, medimos sobre la tierra las calles y manzanas tanto como medimos la posición (en coordenadas) de las muertes. Es por esto, que además de escalar el bloque de calles y manzanas, es necesario escalar la coordenada del punto modificando así la simbología formando en lugar de circunferencias, elipses. #CartadeJohnSnow",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 12 de October de 2020, 18:15"
+  },
+  {
+    "Title": "Módulo lineal",
+    "Text": "Cuando la derivada parcial del #módulolineal de deformación en el ángulo A respecto al ángulo A es 0, vamos a obtener los máximos y mínimos de la función ml(A).",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 18:16"
+  },
+  {
+    "Title": "Direcciones fundamentales",
+    "Text": "Las #direccionesfundamentales son aquellas que permiten hacer el producto interno en R2, nos permiten definir el P.I. en el sistema transformado. #43 #51 #45",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 18:23"
+  },
+  {
+    "Title": "Direcciones en las transformaciones",
+    "Text": "Existen 2 direcciones en cualquier #transformación que son ortogonales entre sí, tanto en el origen de coordenadas como en el destino de la transformación.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 12 de October de 2020, 18:25"
+  },
+  {
+    "Title": "Coordenadas esfericas",
+    "Text": "Nuestros parametros son phi y lamda porque la superficie de la Tierra mantiene constante su radio (rho) #12 #18 #22 #58",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Monday, 12 de October de 2020, 18:43"
+  },
+  {
+    "Title": "Duda",
+    "Text": "¿Qué significa la #inversa de una #transformacion? ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Monday, 12 de October de 2020, 18:44"
+  },
+  {
+    "Title": "Direcciones fundamentales",
+    "Text": "Las #direcciones #fundamentales no son las mismas en todas las direcciones #43 #45 #51 #63",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Monday, 12 de October de 2020, 18:47"
+  },
+  {
+    "Title": "Duda inversa",
+    "Text": "Respondiendo a la duda de la nota #66, entiendo que, al ser la #transformación una función f, su #inversa es f^-1.Por ejemplo en el video cuando tenemos una transformación que nos da unos parámetros u y v que son función de phi y lambda, la inversa de esta serian los phi y lambda en función de u y v.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 12 de October de 2020, 19:04"
+  },
+  {
+    "Title": "Magnitudes fundamentales",
+    "Text": "Al permitir definir el producto interno las #magnitudesfundamentales permiten definir magnitudes y medir ángulos en el nuevo sistema.Se obtienen de realizar el producto interno entre los vectores base phi y lambda en R2.#19 #44 #63 #20",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 12 de October de 2020, 19:48"
+  },
+  {
+    "Title": "Escala",
+    "Text": "La #escala nos permite relacionar la medida en el espacio de origen con la del espacio de representación. ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Monday, 12 de October de 2020, 20:31"
+  },
+  {
+    "Title": "Sistema de coordenadas cartesiano",
+    "Text": "El sistema de coordenadas #cartesiano es ortonormal por definición y lo que se dice es que la norma de los #VectoresBase de ese sistema es uno y que son ortonormales entre ellos. #ortonormales ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 13 de October de 2020, 00:25"
+  },
+  {
+    "Title": "Direcciones fundamentales ",
+    "Text": "Las #direccionesfundamentales son #vectores que construimos como una rotación en un ángulo A de los vectores phi y lambda. #43 #45 #51 #52",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 13 de October de 2020, 15:52"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "El acimut de las direcciones fundamentales puede ser un valor ya conocido al momento de realizar la transformación o puede ser un valor que tengamos que averiguar para analizar las deformaciones de la proyección que realicemos. #52 #45 #72",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 13 de October de 2020, 16:09"
+  },
+  {
+    "Title": "Notación de Vectores",
+    "Text": "Entonces, con respecto a la nota #50 y la explicación de la clase del 13/10, los #vectores con sombrero son del espacio de llegada (R2) y los que no tienen sombrero son los del espacio de salida (R3).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Tuesday, 13 de October de 2020, 20:22"
+  },
+  {
+    "Title": "Proyecciones",
+    "Text": "Se entiende por #proyección cartográfica, a las representaciones planas de la superficie de la tierra",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 14 de October de 2020, 18:00"
+  },
+  {
+    "Title": "Proyecciones ",
+    "Text": "Como la superficie terrestre no es desarrollable en el plano por ser una #esfera, se tiene que elegir una #proyección en la cual se conserve ángulos, distancias o áreas (en la nota #25 se explica la última). #1 #76",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 14 de October de 2020, 18:10"
+  },
+  {
+    "Title": "Proyecciones conformes",
+    "Text": "Añadiendo a la nota #76 , una #Proyección es #conforme cuando se conservan los ángulos. O sea que sufre #deformaciones en las superficies y las distancias",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 14 de October de 2020, 18:16"
+  },
+  {
+    "Title": "Superficies auxiliares",
+    "Text": "Una #Proyección también puede clasificarse según si la #transformación se ha hecho directamente sobre el plano o sobre una superficie auxiliar que luego se desarrolla sobre el plano (proyecciones #acimutales , #cónicas , #cilíndricas ) #39 #76",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 14 de October de 2020, 18:25"
+  },
+  {
+    "Title": "Posición de la figura auxiliar",
+    "Text": "Una #Proyección también puede clasificarse según la posición de la figura auxiliar (proyecciones #normales #transversales #oblicuas ) #78",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Wednesday, 14 de October de 2020, 18:31"
+  },
+  {
+    "Title": "Clasificación de proyecciones",
+    "Text": "Tal como dice #75, una proyección puede ser cualquier transformación. las clasificaciones que aparecen en #76 #77 #78 #79, como bien menciona #78, son solo algunas de las posibles. Hay un conjunto infinito de representaciones posibles, muchas son muy útiles sin entrar en categorías estrictas. #Javier",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Thursday, 15 de October de 2020, 13:46"
+  },
+  {
+    "Title": "Actividad 2",
+    "Text": "En una parte del enunciado de la 2° actividad dice que hay que armar una grilla de #paralelos y #meridianos. ¿Eso qué significa?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 16 de October de 2020, 00:07"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "¿Los valores de phi en la expresión para hallar el #acimut de las direcciones de máxima y mínima deformación son los mismos para todas las proyecciones?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 16 de October de 2020, 00:25"
+  },
+  {
+    "Title": "Proyeccion segun deformaciones",
+    "Text": "Una #proyeccion se clasifica según su deformación como #conforme #equivalente y #equidistante",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 16 de October de 2020, 21:00"
+  },
+  {
+    "Title": "Clasificacion segun contacto con la tierra",
+    "Text": "Una #proyeccion se clasifica según su contacto con la tierra y la figura de sostén como #tangente y #secante",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 16 de October de 2020, 21:03"
+  },
+  {
+    "Title": "Figura adoptada de la tierra",
+    "Text": "Una #proyeccion se clasifica según la figura adoptada de la tierra como #topografica #geografica y #geodesica #83 #84 #79 #76 #77 ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 16 de October de 2020, 21:07"
+  },
+  {
+    "Title": "Modulo de deformacion",
+    "Text": "Un #módulodedeformación es la relación entre un valor infinitesimal de una magnitud sobre la carta y el correspondiente valor de la misma magnitud sobre la esfera.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 16 de October de 2020, 23:21"
+  },
+  {
+    "Title": "Modulo de deformacion",
+    "Text": "Los #modulosdedeformacion pueden ser #lineal #areal o #angular",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 16 de October de 2020, 23:23"
+  },
+  {
+    "Title": "Proyección conforme",
+    "Text": "Una #proyección es #conforme cuando una carta conservan los ángulos que dos líneas cualquiera forman en la superficie terrestre..",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 17 de October de 2020, 00:38"
+  },
+  {
+    "Title": "Proyección equivalente",
+    "Text": "Se dice que una #proyección es #equivalente cuando las superficies medidas sobre el plano de proyección son iguales a las medidas sobre la esfera.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 17 de October de 2020, 00:40"
+  },
+  {
+    "Title": "Proyección equidistante",
+    "Text": "Una #proyección es #equidistante cuando se mantienen las distancias entre entre dos puntos situados sobre la superficie de la esfera terrestre.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 17 de October de 2020, 00:43"
+  },
+  {
+    "Title": "Duda- Teorico bases metricas",
+    "Text": "En la página 8 del apunte no me queda claro si los vectores 𝜑 ′ ; 𝜆′ pertenecen al espacio de origen o al plano. (Segundo parrafo de la página, donde dice:Existe una transformación 𝜑\n′\n; 𝜆′ = 𝑓(𝜑, 𝜆); 𝑔(𝜑, 𝜆), que garantiza que en un\npunto 𝑜 la base vectorial 𝝋′\n; 𝝀′\n, es ortogonal)",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 19 de October de 2020, 15:40"
+  },
+  {
+    "Title": "Duda- Direcciones fundamentales",
+    "Text": "Cuando se construyen los 𝝋′\n, 𝝀′ también se pone como condición que ‖𝝋′\n‖ = ‖𝝋‖ y ‖𝝀′\n‖ = ‖𝝀‖ ¿Por qué? (pagina 8) #72",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 19 de October de 2020, 15:48"
+  },
+  {
+    "Title": "Proyeccion",
+    "Text": "Es correcto que al momento de realizar una #proyección se tome alguna característica como uno de los puntos de partida? Por ejemplo, en una proyección cilíndrica normal tangente, la distancia sobre el ecuador se conserva y entonces la transformación y=R𝝀 es directa. #75 #76 #78 ",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 19 de October de 2020, 16:00"
+  },
+  {
+    "Title": "Actividad 2 ",
+    "Text": "Respondiendo a la duda de la nota #81, entiendo que se refiere a representar la forma que tienen los #paralelos y #meridianos resulta una vez realizada la transformación. Por ejemplo en la proyección vista en la ultima clase, los paralelos quedaban como círculo concéntricos y los meridianos como rectas con un punto en común (el polo).",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 19 de October de 2020, 16:06"
+  },
+  {
+    "Title": "Proyección Conforme ",
+    "Text": "Añadiendo a la #88 , la #proyección es #conforme cuando conforma la forma local. Para conservar cada uno de los ángulos, una proyección conforme debe mostrar las líneas perpendiculares de la cuadricula con intersecciones en ángulos de 90° en el mapa. La desventaja de esta #proyección es que puede distorsionar mucho el área.  ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 20 de October de 2020, 11:33"
+  },
+  {
+    "Title": "Proyección Equivalente",
+    "Text": "Añadiendo a lo dicho en la nota #89 , la #proyección #equivalente conserva el area de las entidades. Para esto, se distorsionan la forma, los ángulos y la escala. En este sentido, es posible que los #meridianos y #paralelos NO sean ortogonales.",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 20 de October de 2020, 11:40"
+  },
+  {
+    "Title": "Duda TP 2",
+    "Text": "Tengo una #duda respecto al #tp2, según el link que nos deriva a Wikipedia, la proyección de #Gall-Peters tiene la formula https://wikimedia.org/api/rest_v1/media/math/render/svg/9be14dca5b58117e1796bde23140eb20f44d01b9 mientras que en el apunte de #Furuti, en la pagina 60 desarrolla otra distinta: con 𝝋0=45°¿Cuál es la correcta? \n\n",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:02"
+  },
+  {
+    "Title": "Proyeccion de Mercator",
+    "Text": "La proyeccion de Mercator tiene la siguiente parametrizacion: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Mercator  #Mercator",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:12"
+  },
+  {
+    "Title": "Sistemas de proyecciones",
+    "Text": "Dejo el siguiente hilo de twitter que me pareció interesante: https://twitter.com/unamunoagain/status/1040655965123686400?lang=es",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:14"
+  },
+  {
+    "Title": "Proyecciones equivalentes",
+    "Text": "Para que las halla equivalencia se tiene que cumplir que el modulo del producto vectorial entre los vectores fi y lamda del espacio origen (R3) sea igual al modulo del producto vectorial entre los vectores fi y lamda del espacio destino (R2) #89 #96",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:16"
+  },
+  {
+    "Title": "Duda",
+    "Text": "No termino de entender como determinar direcciones fundamentales #duda",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:17"
+  },
+  {
+    "Title": "Proyecciones con figura auxiliar",
+    "Text": "Cuando tenemos #proyecciones con #FigurAauxiliar, en general tenemos un cilindro, un cono o un plano que se orienta respetando el eje de rotacion terrestre ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:18"
+  },
+  {
+    "Title": "Respuesta a duda",
+    "Text": "Nose si esta bien pero lo que entiendo por #direccionesfundamentales es que cumplen la condicion de que el producto interno entre los versores fi y lamda tanto de R2 como de R3 es cero #101",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 20 de October de 2020, 13:23"
+  },
+  {
+    "Title": "Metrica",
+    "Text": "¿Que es la metrica? ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 20 de October de 2020, 14:26"
+  },
+  {
+    "Title": "Proyecciones conformes ",
+    "Text": "mlm=mlp sólo vale si paralelos y meridianos son #direccionesfundamentales. #proyeccion #conforme",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 20 de October de 2020, 14:42"
+  },
+  {
+    "Title": "Proyección Estereográfica de Gall",
+    "Text": "Tengo una #duda, esta #proyección sería un caso particular de la proyección Gall Peters? #97",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 20 de October de 2020, 14:47"
+  },
+  {
+    "Title": "Proyecciones",
+    "Text": "Este link me parece que puede ser de utilidad https://desktop.arcgis.com/es/arcmap/10.3/guide-books/map-projections/about-map-projections.htm #proyeccion",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 20 de October de 2020, 14:54"
+  },
+  {
+    "Title": "Direcciones fundamentales",
+    "Text": "#101 #103 Cuando tenemos una #proyección con #figuraauxiliar estamos mapeando dos direcciones ortogonales de la esfera a dos direcciones ortogonales del plano, con lo cual la estamos convirtiendo en #direccionesfundamentales. ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 20 de October de 2020, 15:08"
+  },
+  {
+    "Title": "Proyecciones",
+    "Text": "Este video me pareció bastante explicativo, muestran algunos tipos de proyecciones y es interesante. Está en inglés, pero hay bastantes animaciones. https://www.youtube.com/watch?v=D3tdW9l1690&feature=youtu.be #proyeccion",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 20 de October de 2020, 15:53"
+  },
+  {
+    "Title": "Proyección pseudocilíndrica",
+    "Text": "En las proyecciones pseudocilíndricas, los paralelos son líneas horizontales --> (dx/dlambda)=0 #proyeccion",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 21 de October de 2020, 13:30"
+  },
+  {
+    "Title": "La Métrica",
+    "Text": "La matriz #métrica sirve para calcular el producto interno. Nos permite calcular una magnitud en el espacio de destino. #104 #53 #44",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 21 de October de 2020, 13:32"
+  },
+  {
+    "Title": "Proyecciones equivalentes",
+    "Text": "Las notas que hablan de #proyección #equivalente son las #25 #83 #86 #96 #100",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 21 de October de 2020, 13:40"
+  },
+  {
+    "Title": "Proyecciones conformes ",
+    "Text": "Las notas que hablan de #proyeccion #conforme son las #77 #83 #88 #95 #105 ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Wednesday, 21 de October de 2020, 13:44"
+  },
+  {
+    "Title": "Elipse indicatriz de tissot",
+    "Text": "Si en un punto P de la superficie original, se imagina trazado un círculo de radio infinitamente pequeño, la imagen plana del mismo será una elipse, llamada #elipse indicatriz de #Tissot, y tiene su centro en el punto P’ imagen de P.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 21 de October de 2020, 15:43"
+  },
+  {
+    "Title": "Proyeccion de Lambert",
+    "Text": "La #proyección azimutal de áreas iguales de\nLambert es una proyección #azimutal con tres orientaciones: polar, ecuatorial y\noblicua. El mundo se proyecta sobre una superficie plana desde cualquier punto\ny representa con precisión el área en todas las regiones de la esfera.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 21 de October de 2020, 15:56"
+  },
+  {
+    "Title": "Proyecciones Acimutales",
+    "Text": "Son las #proyecciones obtenidas directamente sobre un plano tangente a la tierra, ubicado en el centro de la zona a representar. #78",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 21 de October de 2020, 16:04"
+  },
+  {
+    "Title": "Proyecciones Cilindricas",
+    "Text": "Son aquellas #proyecciones en que los puntos de la tierra se representan sobre un cilindro que luego se extiende en un plano. #78",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 21 de October de 2020, 16:04"
+  },
+  {
+    "Title": "Proyecciones Conicas",
+    "Text": "Son aquellas #proyecciones en que los puntos se representan sobre un cono que luego se despliega en un plano. #78",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 21 de October de 2020, 16:05"
+  },
+  {
+    "Title": "Elipse indicatriz de Tissot",
+    "Text": "Información acerca de la #elipse indicatriz de #Tissot: https://es.wikipedia.org/wiki/Indicatriz_de_Tissot#:~:text=Indicatriz%20de%20Tissot%2C%20o%20elipse,distorsiones%20de%20las%20proyecciones%20cartogr%C3%A1ficas.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 23 de October de 2020, 01:01"
+  },
+  {
+    "Title": "Proyección de Peters Gall",
+    "Text": "Respondo la pregunta de la nota #106 por este link: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Peters",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 23 de October de 2020, 01:07"
+  },
+  {
+    "Title": "Proyección cónica",
+    "Text": "Link acerca de la #proyeccionconica: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_c%C3%B3nica_cartogr%C3%A1fica#:~:text=La%20proyecci%C3%B3n%20c%C3%B3nica%20es%20la,una%20superficie%20geom%C3%A9trica%20(cono).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 23 de October de 2020, 01:17"
+  },
+  {
+    "Title": "Direcciones fundamentales ",
+    "Text": "De la expresión (14) del apunte sobre direcciones fundamentales, lo que puede variar son E, F y G que son las derivadas de la transformación. Entonces se modifican estas, para conseguir el resultado que queríamos. #DireccionesFundamentales #43 #45 #47 #51 #63 #72 #103 #105 #108",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Saturday, 24 de October de 2020, 08:06"
+  },
+  {
+    "Title": "Consulta",
+    "Text": "En la grabación de la clase del 13/10, en el min 15:15 ¿por qué fi lleva las barras de la norma? #duda ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Saturday, 24 de October de 2020, 09:24"
+  },
+  {
+    "Title": "Proyecciones cilíndricas",
+    "Text": "Información adicional acerca de #proyeccion cilíndrica: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cil%C3%ADndrica",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 25 de October de 2020, 00:57"
+  },
+  {
+    "Title": "Proyecciones acimutales",
+    "Text": "Información adicional acerca de #proyeccion acimutal: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_acimutal",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 25 de October de 2020, 01:00"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "La matriz #métrica queda definida por el producto interno de los vectores base del sistema de coordenadas que se está analizando #111",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Sunday, 25 de October de 2020, 23:01"
+  },
+  {
+    "Title": "Metrica",
+    "Text": "Concluyendo a lo anteriormente dicho, la #métrica en un #sistemadecoordenadas nos permite definir el #productointerno y también la #norma. Asimismo, como el nombre intuye, nos está permitiendo medir. #44 #53 #104 #111 #126",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 26 de October de 2020, 11:31"
+  },
+  {
+    "Title": "Proyecciones",
+    "Text": "Teniendo en cuenta que ya estamos trabajando con #direccionesfundamentales:-Si quiero que la #proyección sea #conforme ml1=ml2-Si quiero que la #proyección sea #equivalente ml1*ml2=1-Si quiero que la #proyección sea #equidistante el modulo de la dirección sea 1.  ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 26 de October de 2020, 11:44"
+  },
+  {
+    "Title": "Respuesta",
+    "Text": "Respondiendo la duda de la nota #91 : 𝝋′ ; 𝝀′ pertenecen al plano, ya que como quedó demostrado en los apuntes 𝝋, 𝝀 de R3 es una base ortogonal, por lo tanto, la #transformación que se hace es para obtener 𝝋′ ; 𝝀′  ortogonales en R2.",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 26 de October de 2020, 17:28"
+  },
+  {
+    "Title": "Respuesta direcciones fundamentales",
+    "Text": "Respondiendo a la duda de la nota #101 , para obtener las #direccionesfundamentales de un punto, una de las formas puede ser: encontrar una rotación A (con la fórmula (14) del apunte, mencionada en #122 ) y aplicarla a alguna de las fórmulas del apunte que están en el final de la página 8 y el principio de la 9. ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 26 de October de 2020, 17:34"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "En el video de matriz #métrica , en el minuto 5:05 ; por qué hay que pasar por las #direccionesfundamentales?",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 26 de October de 2020, 17:38"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "Se puede descomponer la #métrica en una matriz de rotación y una matriz diagonal, usando la descomposición de #autovalores y #autovectores ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 26 de October de 2020, 17:40"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "Añadiendo a la nota #132 , acá hay un link para refrescar cómo obtener los #autovalores y #autovectores : https://personal.us.es/ealgaba/algebra%20=04-05/TEMA11.pdf",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 26 de October de 2020, 17:42"
+  },
+  {
+    "Title": "Proyeccion de Mercator",
+    "Text": "La propiedad mas importante es que la imagen de la linea loxodroma sobre la esfera es una linea recta en la carta #98",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 27 de October de 2020, 14:48"
+  },
+  {
+    "Title": "Proyeccion de Mercator",
+    "Text": "Las “loxodromas” son las\nlíneas que sobre una superficie cualquiera tienen acimut o rumbo constante #98 #134",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 27 de October de 2020, 14:49"
+  },
+  {
+    "Title": "Metrica",
+    "Text": "Las notas que hablan de la #metrica son #101 #111 #126 #127 #131 #132 #133",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 27 de October de 2020, 14:53"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "La matriz #métrica en un sistema de coordenadas nos permite definir el producto interno y también la norma, por lo tanto nos permite medir. #101 #111 #126 #127 #131 #132 #136",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 27 de October de 2020, 16:36"
+  },
+  {
+    "Title": "Corrección",
+    "Text": "Como corrección a la nota número #129, en realidad los vectores  𝝋′ ; 𝝀′ pertenecen al espacio de origen R3 y son los vectores 𝝋, 𝝀 rotados como se mencionó anteriormente.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 27 de October de 2020, 19:29"
+  },
+  {
+    "Title": "Respuesta- Nota 92",
+    "Text": "#92 Se impone esa condición porque se está hablando de la rotación de los vectores 𝝋,𝝀, lo que no cambiaría su magntitud.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 27 de October de 2020, 22:33"
+  },
+  {
+    "Title": "Modulos y direcciones ",
+    "Text": "Los #módulosdedeformación en las direcciones de\nmeridianos y paralelos  no son necesariamente los de las #direccionesfundamentales #43 #45 #47 #51 #63 #72 #103 #105 #108 #122 #128 #130                                                 ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Wednesday, 28 de October de 2020, 18:07"
+  },
+  {
+    "Title": "Consulta",
+    "Text": "En la grabación de la clase del 13/10, en el min 20:30, ¿el ángulo que reconstruye la matriz de rotación es el acimut de las #direccionesfundamentales?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 30 de October de 2020, 00:13"
+  },
+  {
+    "Title": "Elipse indicatriz de Tissot",
+    "Text": "Las notas referidas a la #elipse indicatriz de #Tissot son las #114 y #119.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 30 de October de 2020, 00:16"
+  },
+  {
+    "Title": "Proyección de Mollweide",
+    "Text": "Información acerca de la #proyeccion de Mollweide: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Mollweide#:~:text=La%20proyecci%C3%B3n%20de%20Mollweide%2C%20tambi%C3%A9n,Tierra%20o%20del%20cielo%20nocturno.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 30 de October de 2020, 00:22"
+  },
+  {
+    "Title": "Proyección de Bonne",
+    "Text": "Información acerca de la #proyeccion de Bonne: https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Bonne",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 30 de October de 2020, 00:24"
+  },
+  {
+    "Title": "Proyecciones",
+    "Text": "La nota #143 se trata de un ejemplo de una #proyeccion pseudocilíndrica y la nota #144 se trata de un ejemplo de una #proyeccion pseudocónica.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 30 de October de 2020, 00:32"
+  },
+  {
+    "Title": "Componentes de la metrica",
+    "Text": "E G y F son las componentes de la métrica y las podemos hallar como E=𝝋^*𝝋^  G=𝝀^*𝝀^ y F=𝝋^*𝝀^ ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 31 de October de 2020, 22:51"
+  },
+  {
+    "Title": "Rta a consulta",
+    "Text": "Asumiendo que la nota #141 habla en realidad del video de la métrica (porque en la grabación de la clase del 13/10 no se habla de una rotación en ese momento), la respuesta es si, la matriz se reconstruye con el acimut.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 2 de November de 2020, 10:59"
+  },
+  {
+    "Title": "Línea estándar",
+    "Text": "En una proyección una #LíneaEstándar es la que mantiene su magnitud una vez realizada la transformación. ",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 2 de November de 2020, 19:54"
+  },
+  {
+    "Title": "Excel",
+    "Text": "En #excel hay que poner los ángulos en radianes \"=radianes(angulo)\"",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 20:52"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "Para calcular los #acimut de las #direccionesfundamentales se utiliza la siguiente expresión A=1/2*〖tan〗^(-1) ((2*F*cos(φ))/(-G+E*cos^2 (φ)))",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 21:05"
+  },
+  {
+    "Title": "Direcciones fundamentales",
+    "Text": "Para calcular las #direccionesfundamentales en fi se utiliza la siguiente expresión: (φ'sombrero) =((sen(A))/(cos(φ))) *(λsombrero) +cos(A)*(φsombrero)",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 21:08"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "Añadiendo a lo que dice la nota #150 para obtener los #acimut se obtiene A1 y luego A2=A1+90º",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 21:26"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "Notar que en la expresion de la nota #150 si F=0 entonces A1=0º y A2=90º. ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 21:28"
+  },
+  {
+    "Title": "Semiejes Elipses de Tissot",
+    "Text": "Para hallar los semiejes de las #Elipses de #Tissot se evalúa la ecuación #151 en A1 y A2 de la nota #152 y se obtienen lo módulos de los semiejes en las direcciones A1 y A2.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 2 de November de 2020, 21:32"
+  },
+  {
+    "Title": "Elipses de Tissot",
+    "Text": "Las elipses de #Tissot son una manera de medir e ilustrar las distorsiones de las proyecciones cartográficas. En las proyecciones #Conforme , las 2elipses\" de Tissot son circulos con tamaños variables. En las proyecciones #Equivalentes , las elipses tienen la misma unidad de área, aunque sus formas y orientaciones varíen con la ubicación.#114 #119 #142 #154",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 3 de November de 2020, 08:51"
+  },
+  {
+    "Title": "Aclaración ",
+    "Text": "La duda #123 es un error, efectivamente fi no lleva las barras de la norma. Esto fue aclarado la clase del 27/10/2020.",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 3 de November de 2020, 08:53"
+  },
+  {
+    "Title": "Matriz Metrica",
+    "Text": "Si la componente F=0, significa que #paralelos y #meridianos son también una #direcciónfundamental. ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 3 de November de 2020, 12:46"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "Agregando a la nota #151 , las expresiones validas para calcular los #acimut de las #direccionesfundamentales son las 14) y 15) del apunte guia para la clase 2.",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 3 de November de 2020, 13:01"
+  },
+  {
+    "Title": "Proyeccion de Mercator",
+    "Text": "La proyección de Mercator no proyecta los polos, ya que los mismos se ubican en el infinito ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 15:45"
+  },
+  {
+    "Title": "Grilla de meridianos y paralelos",
+    "Text": "Para realizar la grilla hay que reemplazar en la formula de x e y los valores de fi y lamda, variando de acuerdo al intervalo adecuado dichos parametros #grilla #meridianos #paralelos",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 15:51"
+  },
+  {
+    "Title": "Matriz cambio de base",
+    "Text": "La matriz cambio de base multiplica los vectores de fi y lamda con su base canonica asociada u y v  ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 15:54"
+  },
+  {
+    "Title": "Descomposicion de la metrica ",
+    "Text": "La transformacion de una base no cartesiana a una cartesiana, puede descomponerse en #pasos",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 15:58"
+  },
+  {
+    "Title": "Descomposicion de la metrica ",
+    "Text": "Los pasos de dicha transformacion son: 1- cambio de escala para llevar en R3 el vector a una base vectorial normal  #162",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 16:02"
+  },
+  {
+    "Title": "Descomposicion de la metrica ",
+    "Text": "2- rotacion para llevar el vector a una base vectorial normal #162 #163",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 16:02"
+  },
+  {
+    "Title": "Descomposicion de la metrica ",
+    "Text": "3- una escala en cada una de las direcciones fundamentales para llevar el vector a una base normal en el plano, orientada con las direcciones fundamentales #162 #163 #164",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 16:04"
+  },
+  {
+    "Title": "Descomposicion de la metrica ",
+    "Text": "4- una rotacion para llevar el vector en R2 a la base canonica #162 #163 #164 #165",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Tuesday, 3 de November de 2020, 16:05"
+  },
+  {
+    "Title": "F=0",
+    "Text": "Las notas #157 #153 #146 están relacionadas ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 3 de November de 2020, 17:46"
+  },
+  {
+    "Title": "Proyecciones conformes",
+    "Text": "Agregando a la nota #155 en las proyecciones #conformes las formas de las elipses se conservan en pequeñas áreas pero ya no en áreas grandes",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 3 de November de 2020, 18:34"
+  },
+  {
+    "Title": "Descomposicion de la metrica",
+    "Text": "Las notas #162 #163 #164 #165 #166 hablan de descomposición de la métrica",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 3 de November de 2020, 18:40"
+  },
+  {
+    "Title": "Datum",
+    "Text": "Un #datum es una superficie (un #elipsoide) constante y conocida que se usa para describir la localización de puntos sobre la Tierra.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 3 de November de 2020, 20:45"
+  },
+  {
+    "Title": "Ubicación del datum",
+    "Text": "Para definir la ubicación del #SistemaDeReferencia se realizan mediciones astronómicas de las coordenadas de distintos puntos lo que provoca la definición de la ubicación de la terna cartesiana que se asocia al #elipsoide de manera forzosa.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 3 de November de 2020, 20:52"
+  },
+  {
+    "Title": "Materialización del Sistema de referencia",
+    "Text": "El #SistemaDeReferencia carece de utilidad si no se realiza la materialización del mismo. Esto consiste en darle coordenadas referidas a este sistema a puntos ubicados sobre la superficie terrestre y que puedan ser accesibles para hacer mediciones. Al resultado de la materialización se lo llama #MarcoDeReferencia. #171",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 3 de November de 2020, 21:00"
+  },
+  {
+    "Title": "Punto datum",
+    "Text": "Al punto de inicio de las mediciones astronómicas para la definición del sistema de referencia se lo conoce como #PuntoDatum. #170",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 3 de November de 2020, 21:02"
+  },
+  {
+    "Title": "Datum local",
+    "Text": "Inicialmente el conjunto de datos que se mencionan en #170 #171 #172#173 se obtienen solo de forma #local. Para poder tener un sistema de referencia #global es necesario realizar mediciones a lo largo de toda la superficie terrestre lo que fue posible a partir de la puesta en orbita de satélites que permitieron la definición de un datum global.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 3 de November de 2020, 21:08"
+  },
+  {
+    "Title": "Escribir Formulas",
+    "Text": "Para escribir una formula deben escribirla en formato latex tal como lo interpreta katex (ver https://katex.org/ para probar el codigo) Las formulas deben estar encerradas entre signos de pesos \\$ por ejemplo \\$\\hat{\\lambda}\\$ se ve como $\\hat{\\lambda}$Al utilizar simbolos de pesos dobles se ve la formula separada, por ejemplo \\$\\$ x^2+3j \\over 2 \\$\\$ se ve como $$ x^2+3j \\over 2 $$ ",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Wednesday, 4 de November de 2020, 02:46"
+  },
+  {
+    "Title": "Como escribir latex",
+    "Text": "Para generar el código de las ecuaciones pueden utilizar cualquier editor de latex online (buscar en google \"online latex math editor\"), y antes de copiar la formula asegurense de que funcione en la página de prueba de katex.org .En caso de que quieran escribir un símbolo de pesos por algún motivo, pueden escribirlo como \\$.",
+    "Autor": "CLAVIJO JAVIER JOSE",
+    "Timestamp": "Wednesday, 4 de November de 2020, 02:49"
+  },
+  {
+    "Title": "Introducción a GIS",
+    "Text": "¿Los tipos de archivos que se habla entre los minutos 13:05 y 16:49 del video de la introducción a #GIS son los .json solamente?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Wednesday, 4 de November de 2020, 20:24"
+  },
+  {
+    "Title": "Softwares",
+    "Text": "¿Qué softwares, aparte del #QGIS, se utilizan en la práctica de la materia?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Wednesday, 4 de November de 2020, 20:27"
+  },
+  {
+    "Title": "Datum",
+    "Text": "Comparto información ampliada sobre el #Datum: https://www.aristasur.com/contenido/que-es-el-datum-de-las-coordenadas-geograficas-y-su-uso-en-el-gps#:~:text=T%C3%A9cnicamente%2C%20el%20Datum%20es%201,tierra%20(elipsoide%20de%20referencia).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 6 de November de 2020, 00:27"
+  },
+  {
+    "Title": "Datos Geograficos",
+    "Text": "Los datos geográficos pueden ser #georeferenciados si vienen con información geográfica incorporada o #georeferenciables si tienen información geográfica pero no directamente incorporadas",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 11:09"
+  },
+  {
+    "Title": "Datos Geograficos",
+    "Text": "#180 los datos #georeferenciados pueden ser datos raster que son modelos en tif o gpcg, csv, shapefile, y los #georeferenciables pueden ser raster que son escaneos en png o jpg, dxf, pdf, svg",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 11:14"
+  },
+  {
+    "Title": "Marco de referencia",
+    "Text": "#172 El #marcodereferencia esta constituido por las coordenadas de una red de puntos que o definen",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 11:45"
+  },
+  {
+    "Title": "Marco de referencia",
+    "Text": "Un #marcodereferencia es el soporte para la confección de la cartografía de un país, por lo que sin el marco de referencia geodésico no hay cartografía posible #172 #182",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 11:49"
+  },
+  {
+    "Title": "Datum altimetrico",
+    "Text": "Asociado a los 𝝋 y 𝝀 del marco de referencia hay una distancia h de un punto al elipsoide medida sobre la perpendicular llamada #datum altimetrico",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 12:04"
+  },
+  {
+    "Title": "Duda",
+    "Text": "¿Marco de #referencia es lo mismo que sistema de #referencia?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 6 de November de 2020, 15:54"
+  },
+  {
+    "Title": "Respuesta",
+    "Text": "Respondiendo a #185 No, el #marcodereferencia es la materialización del #sistemadereferencia #171 #172 #182",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 6 de November de 2020, 21:30"
+  },
+  {
+    "Title": "POSGAR 07",
+    "Text": "Información acerca del marco de referencia POSGAR 07: https://www.ign.gob.ar/NuestrasActividades/Geodesia/Posgar07",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 7 de November de 2020, 12:05"
+  },
+  {
+    "Title": "Siste de coordenadas celeste",
+    "Text": "Así como la posición de un punto sobre la esfera terrestre puede determinarse por dos coordenadas, la #latitud  #longitud , también la posición de un astro puede determinarse por un par de coordenadas sobre la esfera celeste. Esta es una esfera ideal, sin radio definido, concéntrica con el globo terrestre, en el cual aparentemente se mueven los astros. Existen diversas #Coordenadascelestes según cuál sea su origen y plano de referencia. Una primera clasificación, en dos grandes grupos, atiende si se trata de #Coordenadascartesianas o #Coordenadasesféricas.Mas info en el siguiente link: https://www.ecured.cu/Coordenadas_celestes",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 9 de November de 2020, 12:55"
+  },
+  {
+    "Title": "Fórmula nota 6",
+    "Text": "La nota que se mencionó en la nota #6 es: $\\cos(\\alpha)=\\frac{\\underline{v1}*\\underline{v2}}{|\\underline{v1}|*|\\underline{v2}|}$",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 13:14"
+  },
+  {
+    "Title": "Formula vectores base",
+    "Text": "Las fórmulas de los vectores base ( #19 ) están dadas por:$$\\underline{\\varphi}=\\frac{\\partial \\underline{r}}{\\partial φ}=\\sum_i^j\\frac{\\partial \\underline{r}}{\\partial e_{i}}\\frac{\\partial e_{i}}{\\partial \\varphi}$$ y $$\\underline{\\lambda}=\\frac{\\partial \\underline{r}}{\\partial \\lambda}=\\sum_i^j\\frac{\\partial \\underline{r}}{\\partial e_{i}}\\frac{\\partial e_{i}}{\\partial \\lambda}$$ ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 13:28"
+  },
+  {
+    "Title": "Acimut",
+    "Text": "La fórmula para hallar el acimut mencionado en #52 está dada por:$\\tan(2A)=\\frac{2Fcos(φ)}{-G+E cos^{2}( φ)}$",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 13:37"
+  },
+  {
+    "Title": "Fórmula de direcciones fundamentales",
+    "Text": "Dado A = #191 , las #direccionesfundamentales ( #45 ) se pueden hallar: $\\underline{\\varphi'} = [\\frac{senA||\\underline{\\varphi}||}{||\\underline{\\lambda}||}\\theta_{u,\\lambda}+cosA\\theta_{u,\\varphi}] \\underline{u}$ + $ [\\frac{senA||\\underline{\\varphi}||}{||\\underline{\\lambda}||}\\theta_{v,\\lambda}+cosA\\theta_{v,\\varphi}] \\underline{v}$",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 13:46"
+  },
+  {
+    "Title": "Matriz métrica",
+    "Text": "La componente \"E\" de la matriz #métrica #111 #126 está dada por: $$E=\\frac{\\partial φ^{2}}{\\partial u}||\\underline{φ}||^{2}+\\frac{\\partial \\lambda^{2}}{\\partial u}||\\underline{\\lambda}||^{2}$$ ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 13:57"
+  },
+  {
+    "Title": "Problemas geodésicos",
+    "Text": "Los #ProblemasGeodésicos son: el problema directo y el problema inverso. Surgen de la necesidad de vincular los sistemas #local en dos puntos diferentes de nuestra tierra. #174 ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 14:13"
+  },
+  {
+    "Title": "Problema directo",
+    "Text": "Uno de los #ProblemasGeodésicos es el directo, que consiste en hallar las coordenadas φ1 y λ1 de un punto de destino a partir de coordenadas φ0 y λ0 de un punto de origen, la distancia d que los separa y el acimut A de la dirección desde el punto origen al de destino. #194",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 14:17"
+  },
+  {
+    "Title": "Problema inverso",
+    "Text": "El otro de los #ProblemasGeodésicos es el problema inverso, que consiste en dados los pares de coordenadas (φ0 y λ0) y (φ1 y λ1) hallar la distancia entre ambos y los acimut correspondientes #194 #195",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Monday, 9 de November de 2020, 14:20"
+  },
+  {
+    "Title": "Ejercicio 5 - Guia de ejercicios ",
+    "Text": "La respuesta para el ejercicio número 5 de la #guía es la opción b):$y=\\lambda[(\\frac{pi}{2})^2-\\phi^2]$ y $x=\\phi$Ya que los paralelos son rectas horizontales y el meridiano central es el único que aparece como una linea recta. Para la segunda proyección, la respuesta correcta es que se trata de una proyección azimutal equidistante según la dirección radial. Y por ultimo para la tercer proyección, la opción correcta es: $\\frac{\\partial y}{\\partial \\lambda}\\neq0$",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 9 de November de 2020, 15:51"
+  },
+  {
+    "Title": "Ejercicio 12 - Guia de ejercicios",
+    "Text": "En el ejercicio #12 de la #guía, es correcto pensar las siguientes respuestas: 1) Cónica Equivalente 2) Cilíndrica equidistante según los meridianos 3) Mercator #duda ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 9 de November de 2020, 16:44"
+  },
+  {
+    "Title": "Problemas geodésico directo",
+    "Text": "Añadiendo a la nota #194 , el problema geodesico #directo consiste en hallar las coordenadas $\\phi_{1},\\lambda_{1}$ de un punto de destino a partir de las coordenadas de un punto origen, el azimut de la dirección desde el punto origen al de destino, y la distancia medida entre ambos $\\phi_{0},\\lambda_{0},\\alpha_{01},d_{01}$",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 9 de November de 2020, 17:11"
+  },
+  {
+    "Title": "Problema geodésico inverso",
+    "Text": "Añadiendo a la nota #194 , el problema geodésico #inverso consiste en hallar la distancia entre dos puntos cualesquiera y los acimut correspondientes $d_{01},\\alpha_{01},\\alpha_{10}$ a partir de las coordenadas de los puntos $\\phi_{0},\\lambda_{0},\\phi_{1},\\lambda_{1}$",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Monday, 9 de November de 2020, 17:14"
+  },
+  {
+    "Title": "Sistema Topocéntrico",
+    "Text": "Siempre que trabajamos en un #sistematopocentrico se utiliza la \"z\" hacia abajo, la \"x\" hacia el norte y la \"Y\" hacia el este.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 10 de November de 2020, 16:18"
+  },
+  {
+    "Title": "Forma de la tierra",
+    "Text": "La forma geométrica que mejor representa la forma de la tierra es un elipsoide de revolución. Ya que éste tiene en cuenta la rotación de la tierra.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 10 de November de 2020, 16:26"
+  },
+  {
+    "Title": "Sistema y marco de referencia",
+    "Text": "Dejo un link del IGN que me pareció interesante y útil https://www.ign.gob.ar/NuestrasActividades/Geodesia/Introduccion     #sistemadereferencia #marcodereferencia ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 10 de November de 2020, 16:53"
+  },
+  {
+    "Title": "Datum global",
+    "Text": "La materialización de un #datum global fue posible centrando la terna de referencia en el verdadero centro de masas\nde la tierra y alineándola con su eje de rotación.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 10 de November de 2020, 16:58"
+  },
+  {
+    "Title": "Efemerides de los satélites",
+    "Text": "Los parámetros orbitales de alta precisión de un satélite se denominan #efemérides y el subconjunto de parámetros con precisión reducida se llama almanaque del satélite. Esta información fue obtenida de https://www.meinberg.es/soporte/informacion/global-positioning-system.htm#:~:text=Los%20par%C3%A1metros%20orbitales%20de%20alta,se%20llama%20almanaque%20del%20sat%C3%A9lite.&text=Cada%20sat%C3%A9lite%20transmite%20su%20propio,de%20todos%20los%20sat%C3%A9lites%20existentes. #satelites",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 10 de November de 2020, 17:03"
+  },
+  {
+    "Title": "Sistema de referencia",
+    "Text": "Los #sistemadereferencia brindan el soporte matemático para asignar coordenadas a puntos ubicados sobre la superficie terrestre #171 #172 #186 #203",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 10 de November de 2020, 19:19"
+  },
+  {
+    "Title": "Elipsoide de revolucion",
+    "Text": "El elipsoide de revolución #202 es en particular caso en que a1=a2 llamado asi porque surge de hacer girar la elipse de ecuación  $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$perteneciente al plano XZ alrededor del eje Z coincidente con el eje menor de la elipse",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 10 de November de 2020, 19:57"
+  },
+  {
+    "Title": "Problema geodesico",
+    "Text": "Los #problemasgeodésicos permiten vincular el sistema topocéntrico. Las notas referidas a los problemas geodésicos son #194 #195 #196 #201",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 10 de November de 2020, 20:02"
+  },
+  {
+    "Title": "Actividad 3",
+    "Text": "En la actividad 3 para obtener los parámetros de traslación en coordenadas planas se suman las coordenadas x de la carta se obtiene un promedio y sumando las coordenadas del modelo se obtiene otro promedio, al restarlos se obtiene el parámetro de traslación en x, se procede igualmente con las coordenadas en y. ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 10 de November de 2020, 20:19"
+  },
+  {
+    "Title": "Problema geodésico directo",
+    "Text": "Las notas referidas al problema geodésico #directo son las #195 y #199.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 12 de November de 2020, 00:16"
+  },
+  {
+    "Title": "Problema geodésico inverso",
+    "Text": "Las notas referidas al problema geodésico #inverso son las #196 y #200.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 12 de November de 2020, 00:16"
+  },
+  {
+    "Title": "Datum",
+    "Text": "Las notas referidas al #datum son #170, #171, #173, #174, #179, #184 y #204.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 12 de November de 2020, 23:42"
+  },
+  {
+    "Title": "Elipsoide de revolución ",
+    "Text": "Amplío información a la nota #207: https://es.wikipedia.org/wiki/Esferoide#elipsoide",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 12 de November de 2020, 23:47"
+  },
+  {
+    "Title": "TP N° 3",
+    "Text": "Tengo una consulta: Escalé y georreferencié mi carta en AutoCAD, luego obtuve las curvas de nivel en #QGIS de mi modelo 3D. Cuando exporto las curvas al CAD, no me aparecen dentro de la carta. ¿Esta cuestión tiene que ver con los sistemas de referencia?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 15 de November de 2020, 01:28"
+  },
+  {
+    "Title": "TP 3",
+    "Text": "Tengo una consulta, cuando necesito cortar el Raster por extensión, marco la zona que quiero cortar (con una ventana) y me salta un error diciendo que no se puede generar la capa. #duda #tp3",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Monday, 16 de November de 2020, 20:19"
+  },
+  {
+    "Title": "Elipsoide de revolución",
+    "Text": "Las notas relacionadas con el #ElipsoideDeRevolución son #171 #184 #202 #207 #213",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 17 de November de 2020, 11:29"
+  },
+  {
+    "Title": "Altura elipsoidal",
+    "Text": "Generalmente la altura elipsoidal h no coincide con las mediciones de altura que se realizan con los métodos tradicionales (nivelación geométrica, por ejemplo), por la diferencia que existe entre las superficies equipotenciales y las superficies elipsoidales.Se puede aplicar una corrección basada en mediciones gravimétricas a la medición de alturas para que haya coherencia en el sistema pero de igual manera no se podrá asociar ambas alturas. #184",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 17 de November de 2020, 12:06"
+  },
+  {
+    "Title": "Fajas de Gauss Krüger",
+    "Text": "Se adoptaron 7 sistemas de fajas meridianas separadas cada 3°, cuyos orígenes de latitudes coinciden con el Polo Sur. Esta info y más se puede encontrar en: https://www.ign.gob.ar/NuestrasActividades/ProduccionCartografica/sistemas-de-proyeccion  #tp3 #fajas ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:24"
+  },
+  {
+    "Title": "Conversion de coordenadas",
+    "Text": "Para la conversión a coordenadas geográficas se puede utilizar la siguiente página. www.mygeodata.cloud/cs2cs #tp3 #coordenadasgeograficas #conversion",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:26"
+  },
+  {
+    "Title": "Respuesta ",
+    "Text": "Respondiendo la duda #215 , habría que verificar en que sistema de referencia se esta trabajando. Para cortar el ráster debe estar en WGS84. ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:32"
+  },
+  {
+    "Title": "Transformaciones",
+    "Text": "Para definir transformaciones de coordenadas, hay que tener en cuenta los parametros iniciales correspondientes de cada faja. En el siguiente link se observa una tabla con los datos oficiales para definir los sistemas de proyección: https://www.ign.gob.ar/NuestrasActividades/ProduccionCartografica/sistemas-de-proyeccion ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:36"
+  },
+  {
+    "Title": "Curvas de nivel a autocad",
+    "Text": "En respuesta la #214, me pasó lo mismo, cuando exportas las curvas de QGIS hay que ponerle como sistema de coordenadas posgar 94 o 98 (en la faja Gauss Kruger correspondiente), así se me solucionó a mi. ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:42"
+  },
+  {
+    "Title": "Georrefenciador",
+    "Text": "Cuando se eligen puntos en el georreferenciador en #QGIS , la X es la longitud y la Y la latitud. Una vez finalizado hay que dar click al play que está arriba a la inzquierda y así terminas de georreferenciar y se crea la capa nueva. #tp3",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 17 de November de 2020, 14:46"
+  },
+  {
+    "Title": "¿Por qué hay que crear un sistema de referencia prima? ",
+    "Text": "Cuando georreferenciamos en QGIS y queremos luego leer en Campo Inchauspe, debemos crear un nuevo sistema de referencia de coordenadas qie no transforme las coordenadas a WGS84. Si no lo aclaro, terminaré obteniendo coordenadas de puntos en WGS84.",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 17 de November de 2020, 16:33"
+  },
+  {
+    "Title": "Conversión de coordenadas ",
+    "Text": "Para pasar de #coordenadasgeograficas a #coordenadasgeocentricas (x,y,z) se puede utilizar el software OSGeo4W o aplicar las expresiones del siguiente link: https://gssc.esa.int/navipedia//index.php/Ellipsoidal_and_Cartesian_Coordinates_Conversion",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 17 de November de 2020, 16:38"
+  },
+  {
+    "Title": "Conversión de coordenadas ",
+    "Text": "Las notas que hablan sobre conversión de coordenadas son: #219 #225",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 17 de November de 2020, 16:39"
+  },
+  {
+    "Title": "Actividad 3",
+    "Text": "Tengo mi carta georreferenciada (en QGIS) en Campo Inchauspe/Argentina 6 y mi modelo en WGS84 al igual que las curvas de nivel y he creado el sistema de coordenadas primado que no transforma las coordenadas a WGS84. ¿Cómo sigo para poder hallar la transformación en R2 y el vector espacial entre los orígenes de los sistemas de referencia? #TP3",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Wednesday, 18 de November de 2020, 20:26"
+  },
+  {
+    "Title": "Conversión de coordenadas",
+    "Text": "No puedo acceder al link que está en la nota #219. ¿Hay un problema con la página?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Wednesday, 18 de November de 2020, 20:33"
+  },
+  {
+    "Title": "Cartografia tematica",
+    "Text": "La #cartografíatemática es una forma de comunicación visual para representar\ngeográficamente, la cual consta de mapas que pueden ser del mundo, de países o\nde ciudades en los cuales se pueden representar informar e ilustrar sobre datos\nobtenidos respecto de algún tema en específico",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 20 de November de 2020, 17:31"
+  },
+  {
+    "Title": "Carta tematica",
+    "Text": "Para\nrealizar una #cartatemática se inicia desde una cartografía base las cuales\ntienen carácter general y es la que nos da el contexto en el que vamos a\ntrabajar por lo que tiene que limitarse a una geografía básica #229",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 20 de November de 2020, 17:33"
+  },
+  {
+    "Title": "Carta tematica",
+    "Text": "Una #cartatematica puede ser #cuantitativa o #cualitativa #229 #230",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 20 de November de 2020, 17:38"
+  },
+  {
+    "Title": "Carta tematica",
+    "Text": "En una #cartatematica #cualitativa se utiliza una simbologia en la que se puede variar en textura formas o colores #229 #230 #231",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 20 de November de 2020, 17:42"
+  },
+  {
+    "Title": "Carta tematica",
+    "Text": "En una #cartatematica #cuantitativa se utiliza una simbologia en la que se puede variar en tamaño o en diferentes tonos del mismo color para casos en que los datos estén conectados #229 #230 #231",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Friday, 20 de November de 2020, 17:44"
+  },
+  {
+    "Title": "WGS84",
+    "Text": "Información relacionada al #WGS84: https://es.wikipedia.org/wiki/WGS84#:~:text=El%20WGS%2084%20(World%20Geodetic,x%2Cy%2Cz).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 20 de November de 2020, 23:40"
+  },
+  {
+    "Title": "Elipsoide de Hayford",
+    "Text": "Los parámetros del elipsoide de #Hayford se encuentran el el siguiente enlace: https://es.qaz.wiki/wiki/Hayford_ellipsoid",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 20 de November de 2020, 23:48"
+  },
+  {
+    "Title": "Proyecto en QGIS",
+    "Text": "Si tengo que pasar un #proyecto a otra computadora, ¿qué archivos tengo que transferir para poder conservar el mismo #proyecto y continuarlo?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 21 de November de 2020, 01:36"
+  },
+  {
+    "Title": "Tipos de Cartas Tematicas ",
+    "Text": "Link con los tipos de #cartatematica: https://towardsdatascience.com/the-7-best-thematic-map-types-for-geospatial-data-34d21b8b475",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Saturday, 21 de November de 2020, 11:44"
+  },
+  {
+    "Title": "Ejemplo carta temática",
+    "Text": "Link a un ejemplo de carta temática https://www.flickr.com/photos/141749475@N02/43001040485/in/pool-qgis-screenshots/",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:19"
+  },
+  {
+    "Title": "Ejemplo",
+    "Text": "Link a ejemplo https://www.flickr.com/photos/overlycuriousbystander/41413898674/in/pool-qgis-screenshots/",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:21"
+  },
+  {
+    "Title": "Ejemplo",
+    "Text": "Link a otra carta temáticahttps://www.flickr.com/photos/163209714@N04/39953274244/in/pool-qgis-screenshots/",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:22"
+  },
+  {
+    "Title": "Ejemplos",
+    "Text": "En los ejemplos de las notas #238 #239 #240 se utiliza una representación de la #información en la que los distintos #datos se encuentran representados por áreas y se los diferencia utilizando distintos colores.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:24"
+  },
+  {
+    "Title": "Dato",
+    "Text": "En la nota #241 se entiende como dato a la información que se posee y se quiere representar, la cual generalmente está referida a un lugar o región.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:27"
+  },
+  {
+    "Title": "Ejemplo",
+    "Text": "Dejo un link a una carta en la que la representación se basa ahora en la variación del tamaño y color de la #simbología. https://mastergeo.es/proyecto/colaboracion-en-la-realizacion-de-la-cartografia-tematica-de-la-publicacion-demografia-de-la-serie-monografias-del-atlas-nacional-de-espana/",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:31"
+  },
+  {
+    "Title": "Símbolo",
+    "Text": "Es la figura que representa en la carta a los objetos de la realidad. #243",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Monday, 23 de November de 2020, 12:34"
+  },
+  {
+    "Title": "Join espacial (unión espacial)",
+    "Text": "En este link se explica cómo realizar un #joinespacial https://www.youtube.com/watch?v=KvN2MWERkyI  ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 24 de November de 2020, 14:07"
+  },
+  {
+    "Title": "Raster",
+    "Text": "Un #raster se puede interpretar de dos maneras distintas, como un continuo o como discreto.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 24 de November de 2020, 14:09"
+  },
+  {
+    "Title": "Topología",
+    "Text": "La #topología es la característica de la geometría de los datos que describe sus cualidades. TopoJSon es un programa que sirve para simplificar respetando la topología. ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 24 de November de 2020, 14:12"
+  },
+  {
+    "Title": "Algoritmos de clustering",
+    "Text": "En el siguiente link se explica qué son los #algoritmosdeclustering y cómo utilizarlos http://www.cs.us.es/~fsancho/?e=230  ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 24 de November de 2020, 14:12"
+  },
+  {
+    "Title": "Percepción",
+    "Text": "La percepción, en cartografía, es la forma en que el lector interpreta la simbología. Se categoriza de la siguiente manera.Existen 4 actitudes:-Asociativa-Selectiva-Ordenada-Cuantitativa",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 24 de November de 2020, 14:19"
+  },
+  {
+    "Title": "Cartografía Tematica ",
+    "Text": "En #cartografíatematica se tiene un lector y un proceso de comunicación que se da a través de un lenguaje, donde este son los simbolos dentro de los cuales pueden variar determinadas \"cosas\", estas cosas se llaman: #Variablesvisuales siendo ejemplos el tamaño, el color, el valor, etc. ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 24 de November de 2020, 15:35"
+  },
+  {
+    "Title": "Cartografía Tematica ",
+    "Text": "Las notas que hablan sobre que significa la #cartatematica son: #229 #230 #231 #232 #233 #237 #250 #254",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 24 de November de 2020, 15:37"
+  },
+  {
+    "Title": "Simbología ",
+    "Text": "Al hablar de simbología discreta hacemos alusión a la #implantación, esta puede ser: Puntual, Lineal o Regional ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 24 de November de 2020, 16:26"
+  },
+  {
+    "Title": "Cartografía Tematica ",
+    "Text": "Dejo un link donde se habla de varios temas que fueron vistos en clase, me pareció interesante que cada apartado tenga un video: https://www.rhumblinemaps.com/thematic-cartographyDesventaja: Esta todo en idioma ingles ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 24 de November de 2020, 16:29"
+  },
+  {
+    "Title": "Carta tematica",
+    "Text": "Las #variablesvisuales de una carta temática son la posición, tamaño, valor, color, grano, orientación y forma #250",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 24 de November de 2020, 18:57"
+  },
+  {
+    "Title": "Actitudes perseptivas",
+    "Text": "La #actitudperceptiva es como el lector va a interpretar los símbolos que se representen, es cuando se quiere que dos elementos se puedan distinguir pero en la visión general predomine la semejanza entre esos símbolos. #249",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 24 de November de 2020, 19:04"
+  },
+  {
+    "Title": "Percepcion",
+    "Text": "La percepción #cuantitativa es cuando se puede establecer una relación entre dos elementos y decir cual es la proporcionalidad entre ellos #249 #255 ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 24 de November de 2020, 19:07"
+  },
+  {
+    "Title": "Elementos de una carta",
+    "Text": "Los #elementos mas habituales de una carta son el nombre o titulo, nombre del lugar representado, el autor del mapa, fecha de creación, fecha de cuando fueron obtenidos los datos representados, el sistema de referencia utilizado, la escala, el canevas, la leyenda, el norte geográfico, el localizador y un mapa de detalle.",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 24 de November de 2020, 19:15"
+  },
+  {
+    "Title": "Tipos de cartas",
+    "Text": "Algunos de los #tiposdecartas son: mapas de coropletas, mapas de isolineas, mapas de densidad de puntos, mapas de símbolos proporcionales, mapas dasimetricos, cartogramas, mapas de flujos",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 24 de November de 2020, 19:25"
+  },
+  {
+    "Title": "Fajas de Gauss Krüger",
+    "Text": "La nota referida a las fajas de Gauss Krüger es la #218.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 27 de November de 2020, 11:36"
+  },
+  {
+    "Title": "TP N° 4",
+    "Text": "¿Los ejemplos de las proyecciones se hicieron con #QGIS?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 27 de November de 2020, 11:47"
+  },
+  {
+    "Title": "Ejemplos de carta temática",
+    "Text": "Los ejemplos de #cartatematica están en las notas #238, #239 y #240.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 27 de November de 2020, 11:54"
+  },
+  {
+    "Title": "Generalización Cartográfica",
+    "Text": "Link con información interesante sobre la #GeneralizaciónCartografica: https://www.um.es/geograf/sigmur/temariohtml/nude11_mn.html ",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Saturday, 28 de November de 2020, 11:33"
+  },
+  {
+    "Title": "ED50",
+    "Text": "Información sobre el #sistema de #referencia ED50: https://es.wikipedia.org/wiki/ED50#:~:text=En%20Espa%C3%B1a%20el%20ED50%20fue,adopt%C3%B3%20como%20oficial%20el%20ETRS89.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 28 de November de 2020, 13:51"
+  },
+  {
+    "Title": "Raster",
+    "Text": "Con respecto a la nota #246, un #raster (imagen de píxeles) es una estructura de datos que representa una rejilla rectangular de píxeles o puntos de color, denominada matriz, que se puede visualizar en un monitor, papel u otro dispositivo de representación.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 28 de November de 2020, 14:47"
+  },
+  {
+    "Title": "Cartografia tematica",
+    "Text": "La cartografia tematica se utiliza para comunicar informacion mas alla de la geografia #229 #230 #231 #232 #233 #237 #250 #254",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:25"
+  },
+  {
+    "Title": "Cartografia tematica",
+    "Text": "La informacion que se intenta transmitir puede ser cualitativa, cuantitativa u ordenada #229 #230 #231 #232 #233 #237 #250 #254",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:26"
+  },
+  {
+    "Title": "Percepcion - Carta tematica",
+    "Text": "La percepcion puede ser #asociativa cuando entre la informacion vemos mas las similitudes que las diferencias #249 #255 #256",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:32"
+  },
+  {
+    "Title": "Percepcion - Carta tematica",
+    "Text": "En la percepcion #selectiva lo que mas llama la atencion es la diferencia interna de los datos #249 #255 #256 #267 ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:34"
+  },
+  {
+    "Title": "Percepcion - Carta tematica",
+    "Text": "Cuando la percepcion es #ordenada dentro de la simbologia el lector puede ordenar la informacion ",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:37"
+  },
+  {
+    "Title": "Cartas tematicas",
+    "Text": "Podemos categorizar las #cartastematicas en 3 niveles de procesamiento: inventario - tratamiento - sintesis #229 #230",
+    "Autor": "ROCIO MARTINEZ",
+    "Timestamp": "Sunday, 29 de November de 2020, 12:42"
+  },
+  {
+    "Title": "Link a datos",
+    "Text": "Dejo un link al ministerio de economía que tiene algunos datos relacionados a la energía que podrían servir para realizar una carta temática. http://datos.minem.gob.ar/Muchos organismos esatatales poseen estos tipos de sitios con datos abiert",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 11:30"
+  },
+  {
+    "Title": "Generalización cartográfica",
+    "Text": "La #GeneralizaciónCartógrafica es un proceso de selección y clasificación de la información, además de la elección de la forma de representarla. Por ejemplo la elección de símbolos a utilizar y qué detalles son adecuados representar (por ejemplo, las curvas en un río). Esto se realiza en función de la escala que tendrá la carta. #262",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 11:36"
+  },
+  {
+    "Title": "Leyenda",
+    "Text": "La #leyenda es importante, en ella se presenta la simbología utilizada y todo lo pertinente que ayude a la comprensión del mapa. #257",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 12:58"
+  },
+  {
+    "Title": "Actitudes perceptivas",
+    "Text": "Las notas #267 #268 #269 hablan de las actitudes perceptivas que tiene el lector al observar una carta. #255 #249",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 14:04"
+  },
+  {
+    "Title": "Mapas portulanos",
+    "Text": "Dejo información con algunas imágenes interesantes sobre mapas portulanoshttps://abcblogs.abc.es/espejo-de-navegantes/otros-temas/mapas-portulanos-fuera-de-su-tiempo-entre-misterio-y-realidad.html",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 14:27"
+  },
+  {
+    "Title": "Link nota 275",
+    "Text": "Añado al link de la nota #275   https://www.meteorologiaenred.com/portulano.html",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 14:29"
+  },
+  {
+    "Title": "Cartograma",
+    "Text": "Que son los #cartogramas y una herramienta para hacerlos en Qgis. https://geoinnova.org/blog-territorio/cartogramas-en-qgis3/",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 1 de December de 2020, 14:31"
+  },
+  {
+    "Title": "Elipsoides",
+    "Text": "Los puntos de la Tierra pueden estar asociados a distintos #elipsoides dependiendo de la zona o la convención utilizada (#171 #216). Dos de estos elipsoides son: #WGS84 (#234) y el elipsoide Internacional de #Hayford (#235) .",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 15:58"
+  },
+  {
+    "Title": "WGS84",
+    "Text": "Para crear un #MarcoDeReferencia (#183) asociado al ITRS (International Terrestrial Reference System) se creó el MR WGS84 asociado a el #elipsoide #WGS84 (#234)",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:05"
+  },
+  {
+    "Title": "POSGAR 07",
+    "Text": "El #MarcoDeReferencia POSGAR07 (#187) es la materialización de #WGS84 en Argentina (#279)",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:08"
+  },
+  {
+    "Title": "Sistema topocéntrico",
+    "Text": "Teniendo varios de los sistemas mencionados en #201 , se pueden relacionar mediante rotaciones respecto al centro de la Tierra. Esto se puede hacer resolviendo el #TriánguloEsférico y los #ProblemasGeodésicos #195 y #196. (#208).",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:11"
+  },
+  {
+    "Title": "Triángulo esférico",
+    "Text": "El #TriánguloEsférico mencionado en la nota #281 se puede resolver mediante estas fórmulas: https://www.math10.com/es/matematicas-universitarias/triangulo-esferico.html",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:13"
+  },
+  {
+    "Title": "Datos Continuo y Discreto",
+    "Text": "Link de interes: https://www.madrimasd.org/blogs/universo/2011/09/21/138596",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:14"
+  },
+  {
+    "Title": "Datum global",
+    "Text": "Para materializar un #datum global tal como se menciona en #204 , se pueden usar los sistemas GPS, GLONASS, o DORIS ya que aportan redundancia de datos. ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:23"
+  },
+  {
+    "Title": "Datum global",
+    "Text": "Más información acerca de las técnicas mencionadas en #284: DORIS: https://www.math10.com/es/matematicas-universitarias/triangulo-esferico.html ; GLONASS: https://es.wikipedia.org/wiki/GLONASS ; GPS: https://es.wikipedia.org/wiki/GPS",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:26"
+  },
+  {
+    "Title": "ED50",
+    "Text": "El #SistemaDeReferencia ED50 mencionado en #263 tiene como elipsoide de referencia al Internacional de #Hayford (#235)",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:30"
+  },
+  {
+    "Title": "Carta Temática",
+    "Text": "Este link me parece que tiene información bien resumida del tema de carta temática http://pdi.topografia.upm.es/mab/tematica/htmls/intro.html ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:44"
+  },
+  {
+    "Title": "Escala",
+    "Text": "La #escala es un factor muy importante a la hora de confeccionar una #cartatematica se debe tener en cuenta para saber con qué grado de detalle se debe representar la información.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:50"
+  },
+  {
+    "Title": "Representación gráfica de Variables cualitativas",
+    "Text": "Variables cualitativas:\nse utilizan las variables visuales color, forma y textura, en la medida que sea\nposible según el tipo de objeto geométrico a simbolizar. #cartatematica",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:51"
+  },
+  {
+    "Title": "Representación gráfica de Variables cuantitativas",
+    "Text": "Variables cuantitativas: el valor del color y el tamaño\nson las más adecuadas. El tono de color puede emplearse, pero la gama de tonos\ndebe presentar algún tipo de lógica que permita establecer un orden. #cartatematica",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 1 de December de 2020, 16:53"
+  },
+  {
+    "Title": "Mapas cualitativos vs cuantitativos",
+    "Text": "El fin de los mapas cualitativos es mostrar la\ndistribución espacial o la situación de un grupo de datos nominales. De este\ntipo de mapas el lector no puede determinar relaciones de cantidad. Los mapas\ncuantitativos, en cambio, muestran aspectos espaciales de datos numéricos.\nEstos mapas muestran los datos en una escala ordinal y en escalas de intervalo y\nproporción. #cartatematica",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Tuesday, 1 de December de 2020, 17:01"
+  },
+  {
+    "Title": "Mapas cualitativos vs cuantitativos",
+    "Text": "Las notas que hablan de mapas #cualitativos y #cuantitativos son: #232 , #233 y #291 . Y añadiendo, una #CArtaTemática #cuantitativa se centra en mostrar cómo cambia numéricamente cierto fenómeno en un lugar geográfico",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 19:42"
+  },
+  {
+    "Title": "Elementos de la carta temática",
+    "Text": "Una #CartaTemática está compuesta en forma más general por: un mapa geográfico, una superposición temática y un conjunto de elementos auxiliares #257",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 19:44"
+  },
+  {
+    "Title": "Elementos de la carta temática",
+    "Text": "El mapa base es lo que provee la información geográfica necesaria para poder georreferenciar los datos. La superposición temática es la parte en donde el autor decide como quiere transmitir la información que obtuvo. Y los elementos auxiliares son los que le dicen al lector qué es lo que deben interpretar y cómo. #293",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 19:47"
+  },
+  {
+    "Title": "Interdependencia ",
+    "Text": "La escala de una #CartaTemática ( #288 ) es interdependiente con la simbología utilizada y la proyección,  depende del criterio del autor cuáles van a considerarse los más convenientes a usar.",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 1 de December de 2020, 19:51"
+  },
+  {
+    "Title": "Elipsoide",
+    "Text": "Un elipsoide es una superficie curva cerrada cuyas tres secciones ortogonales principales son elípticas, es decir, son originadas por planos que contienen dos ejes cartesianos cada plano. #elipsoide",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 14:44"
+  },
+  {
+    "Title": "Elipsoide y datum",
+    "Text": "https://desktop.arcgis.com/es/arcmap/10.3/guide-books/map-projections/about-the-geoid-ellipsoid-spheroid-and-datum-and-h.htm este link tiene información acerca de cómo se relacionan el geoide, el #elipsoide, el esferoide y el #datum. ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 14:46"
+  },
+  {
+    "Title": "Longitud - Geometría del elipsoide",
+    "Text": "#Longitud: ángulo diedro entre el plano meridiano que contiene al punto\nanalizado y el plano meridiano de origen –Un plano meridiano\nes aquel que contiene al eje Z",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 14:58"
+  },
+  {
+    "Title": "Azimut - Geometría del elipsoide",
+    "Text": "#azimut a->b: ángulo diedro entre el plano meridiano del lugar a y el plano\nvertical que contiene al vector tangente a la trayectoria\ngeodésica que une los puntos a y b sobre la superficie del #elipsoide",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 14:59"
+  },
+  {
+    "Title": "Latitud - Geometría del elipsoide",
+    "Text": "#Latitud ángulo entre la vertical elipsoidal y el plano XY",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 15:01"
+  },
+  {
+    "Title": "Geometria del elipsoide",
+    "Text": "https://www.youtube.com/watch?v=ziV9cCVLp8w este es un video en donde explican este tema, me pareció un buen aporte. #elipsoide",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Thursday, 3 de December de 2020, 15:04"
+  },
+  {
+    "Title": "Consulta TP N° 4 I",
+    "Text": "¿Cómo se calculan y se representan las #elipses de #Tissot para el caso de la proyección equidistante respecto a dos puntos?",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 4 de December de 2020, 00:33"
+  },
+  {
+    "Title": "Consulta TP N° 4 II",
+    "Text": "¿Cómo se determina la extensión geográfica que se puede representar sin exceder una deformación del 5% para la proyección equidistante a dos puntos? #TP4",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Friday, 4 de December de 2020, 00:36"
+  },
+  {
+    "Title": "Geometria del elipsoide",
+    "Text": "Las notas que hablan sobre geometría del elipsoide son #298 #299 #300 #301",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 5 de December de 2020, 17:19"
+  },
+  {
+    "Title": "Elementos de una carta",
+    "Text": "Las notas que hablan sobre los elementos de una carta tematica son #257 #273 #293 #294 ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 5 de December de 2020, 17:22"
+  },
+  {
+    "Title": "Actitudes perseptivas",
+    "Text": "Las notas que hablan sobre actitudes perseptivas son #249 #255 #256 #267 #268 #269",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 5 de December de 2020, 17:28"
+  },
+  {
+    "Title": "Variables cuantitativas y cualitativas",
+    "Text": "Las notas que hablan sobre variables cuantitativas y cualitativas son #231 #232 #233 #289 #290 #291 #292",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 5 de December de 2020, 17:39"
+  },
+  {
+    "Title": "Parametros del elipsoide",
+    "Text": "Existen parámetros que se utilizan normalmente para definir las propiedades del elipsoide de revolución, algunos son: aplastamiento $\\frac{a-b}{a}$  excentricidad lineal $\\sqrt{a^{2}-b^{2}}$  primera excentricidad $\\e^{2}=\\frac{a^{2}-b^{2}}{b^{2}}$",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Saturday, 5 de December de 2020, 18:12"
+  },
+  {
+    "Title": "Teorema de Meusnier",
+    "Text": "A partir de una construcción geométrica demuestra la relación entre el radio de una sección normal a una superficie y el de otra sección que no es normal pero que comparte la recta tangente en un punto con la sección normal.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 8 de December de 2020, 14:41"
+  },
+  {
+    "Title": "Radio de curvatura",
+    "Text": "El radio de curvatura es la tasa de cambio del ángulo de la tangente a una curva con respecto al avance sobre dicha curva. En una esfera el radio de curvatura es único, en cambio cuando se trata de un elipsoide, este radio cambia punto a punto.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 8 de December de 2020, 14:52"
+  },
+  {
+    "Title": "Radios normales",
+    "Text": "Los radios normales son los radios de curvatura de las curvas que resultan de la intersección de la superficie con los planos que contienen a la normal a la superficie. Una propiedad de estos radios es que en un punto, las direcciones sobre las cuales se dan la mayor y menor curvatura son ortogonales entre sí y son los radios que llamaremos #M y #N. #310",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 8 de December de 2020, 14:57"
+  },
+  {
+    "Title": "Teorema de Meusnier",
+    "Text": "Añado a la nota #309 la demostración del Teorema de Meusnier: http://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/53238/demostracion%20geometrica%20del%20teorema%20de%20meusnier.pdf?sequence=1&isAllowed=y",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Tuesday, 8 de December de 2020, 23:26"
+  },
+  {
+    "Title": "Parametros del elipsoide",
+    "Text": "La nota que refiere a los parámetros del #elipsoide es #308.",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Saturday, 12 de December de 2020, 23:52"
+  },
+  {
+    "Title": "Radios normales",
+    "Text": "Entre las paginas 12 y 17 del siguiente PDF refieren a las expresiones de los radios normales: http://internet.contenidos.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/historicos/380/702825001381/702825001381.pdf#311",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Sunday, 13 de December de 2020, 00:00"
+  },
+  {
+    "Title": "Radio promedio",
+    "Text": "Rprom=Raiz(Rmax*Rmin) es el radio de la #esferatangente. Ésta es la esfera que más se parece al #elipsoide en un punto cualquiera. Esto nos sirve porque, si necesitamos asimilar el elipsoide a una esfera, podemos usar el #radiomedio.",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:49"
+  },
+  {
+    "Title": "Radio del paralelo",
+    "Text": "#311 Rparalelo = N * cos(fi) #paralelo",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:51"
+  },
+  {
+    "Title": "Radio del primer vertical",
+    "Text": "N = Rprimer vertical ; este radio es perpendicular a la curva del meridiano que contiene a la normal. #primervertical",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:52"
+  },
+  {
+    "Title": "Radio del paralelo",
+    "Text": "Agregando a la nota #316, el radio del paralelo es igual al módulo del vector lambda. ||lambda||",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:54"
+  },
+  {
+    "Title": "Radio de curvatura del meridiano ",
+    "Text": "Rcurv.delmeridiano= M = ||fi|| #curvatura #meridiano",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:56"
+  },
+  {
+    "Title": "curvatura del meridiano",
+    "Text": "añadiendo a la nota #319, la #curvatura del #meridiano (X) es:  X = 1/M",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 15:58"
+  },
+  {
+    "Title": "Medir sobre un meridiano",
+    "Text": "#320 Para #medir sobre un #meridiano se debe resolver una integral, debido a que M va cambiando a lo largo del meridiano. La integral es:$$  \\int_{ \\phi0 }^{ \\phi1 }{M d \\phi }  $$Para resolver esta integral, se debe utilizar una aproximación en serie binomial (no serie de taylor, ya que no depende del punto de partida)  ",
+    "Autor": "Blanco Camila Milagros",
+    "Timestamp": "Friday, 29 de January de 2021, 16:07"
+  },
+  {
+    "Title": "Elipses de tissot ",
+    "Text": "Que ecuación se utiliza para hallar los semiejes de la #elipse de tissot?",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Monday, 15 de February de 2021, 19:53"
+  },
+  {
+    "Title": "Elipses de tissot ",
+    "Text": "Al encontrar los semiejes de la elipse siempre es necesario aplicar un factor de #escala?",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Monday, 15 de February de 2021, 19:54"
+  },
+  {
+    "Title": "Radios",
+    "Text": "Las notas que hablan sobre radios son #310 #311 #314 #315 #316 #317 #318 #319 ",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Monday, 15 de February de 2021, 23:44"
+  },
+  {
+    "Title": "Elipses de tissot ",
+    "Text": "Luego de hallar los parametros como se grafican las elipses en autocad?",
+    "Autor": "Andrea Elizabeth Mendez",
+    "Timestamp": "Tuesday, 16 de February de 2021, 16:35"
+  },
+  {
+    "Title": "Elipsoide de revolución",
+    "Text": "El elipsoide de revolución mencionado en la nota #308 es el elipsoide que se utiliza para hacer una interpretación bastante precisa de la superficie terrestre ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 19:05"
+  },
+  {
+    "Title": "Elipsoide de revolución",
+    "Text": "El elipsoide mencionado en #308 y #326 surge de rotar al plano XZ sobre el plano Z (coincidente con el eje menor de la elipse), y una de sus características es la simetría alrededor del eje Z.",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 19:09"
+  },
+  {
+    "Title": "Radio de curvatura",
+    "Text": "Cuando trabajamos sobre el #elipsoide de revolución es necesario definir los distintos radios de curvatura (#310 #311 #314 #315 #316 #317 #318 #319) ya que los radios no siempre son los mismos y se necesitan saber por la fórmula de los vectores base ( $||\\underline{\\phi}||= R$ y $||\\underline{\\\\\\lambda}||= R* cos(\\phi)$ )",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 19:27"
+  },
+  {
+    "Title": "Latitud elipsoidal",
+    "Text": "La #latitud elipsoidal surge de considerar el plano XY (mencionado en #300) como el plano del Ecuador terrestre",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 19:30"
+  },
+  {
+    "Title": "Respuesta a duda",
+    "Text": "Respondiendo la duda de la nota #323 , yo considero que es necesario aplicar un factor de escala a los ejes para poder ver en detalle la #elipse, ya que sin esta #escala la elipse es muy pequeña y no se llega a observar lo que se quiere representar",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 19:35"
+  },
+  {
+    "Title": "Representación de un área extensa",
+    "Text": "Cuando se quiere representar un área extensa de la tierra con una precisión alta se necesitará que tenga una deformación moderada. Por eso se utiliza una #proyección #conforme ( #105 ) , pero dicha proyección lleva a grandes deformaciones en los extremos",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:01"
+  },
+  {
+    "Title": "Representación de un área extensa",
+    "Text": "Para resolver el problema planteado en #331 , se parte del meridiano central, que se representa recto y en escala real, construyendo la #proyección #conforme a partir de él. O sea, en el meridiano central: $||\\underline{\\phi}||=||\\underline{\\widehat{\\phi}}||$",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:06"
+  },
+  {
+    "Title": "Proyección mercator",
+    "Text": "La proyección mencionada en #332 es análoga a la proyección de #Mercator rotada (#98) y se puede ver que las #deformaciones dependen solamente del apartamiento del meridiano central",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:10"
+  },
+  {
+    "Title": "Meridiano central recto y magnitud real",
+    "Text": "Lo dicho en la nota #332 se puede expresar en forma matemática como: $y(\\lambda=0, \\phi) = 0$ y $x(\\lambda=0, \\phi) = \\int_{-\\pi/2}^{\\phi} {\\partial \\phi}*\\sqrt{\\underline{\\phi}*\\underline{\\phi}}$",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:15"
+  },
+  {
+    "Title": "Representación en Argentina",
+    "Text": "En Argentina el sistema de proyección más utilizado es el de #Gauss-Kruger (caso particular de la proyección Transversa #Mercator #333) donde $Y = N * 10^{6}+500000 + Y'$ , siendo N= número de faja",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:33"
+  },
+  {
+    "Title": "Número de faja",
+    "Text": "El número de faja \"N\" mencionado en #335 se utiliza para definir el valor de origen del meridiano central (#332) dividiendo al país en 7 fajas ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:38"
+  },
+  {
+    "Title": "Proyección Gauss-Kruger",
+    "Text": "Información sacada del IGN sobre la #proyección #Gauss-Kruger (#335 #336) : https://www.ign.gob.ar/NuestrasActividades/ProduccionCartografica/sistemas-de-proyeccion#:~:text=La%20proyecci%C3%B3n%20Gauss%2DKr%C3%BCger%20constituye,Argentina%20y%20las%20Islas%20Malvinas.",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:40"
+  },
+  {
+    "Title": "Representación",
+    "Text": "La solución que se menciona en #332 aprovecha la simetría de rotación del #elipsoide y esa solución es aplicable a cualquier área variando un parámetro.",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:40"
+  },
+  {
+    "Title": "Fajas meridianas",
+    "Text": "Para evitar que la representación exceda un valor de deformación fijado se divide el territorio en #husos o #fajasmeridianas. En Argentina estas fajas tienen 3º. #333 #335 #336 #337",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:43"
+  },
+  {
+    "Title": "sistema de coordenadas universal transversal de Mercator",
+    "Text": "Información acerca del sistema de coordenadas basado en la proyección transversa de #Mercator mencionada en #333 : https://es.wikipedia.org/wiki/Sistema_de_coordenadas_universal_transversal_de_Mercator#:~:text=La%20proyecci%C3%B3n%20transversa%20de%20Mercator,hace%20con%20distancias%20y%20%C3%A1reas. ",
+    "Autor": "MARIA TRINIDAD BISSO",
+    "Timestamp": "Tuesday, 16 de February de 2021, 20:49"
+  },
+  {
+    "Title": "Link ",
+    "Text": "Dejo un link que tiene información de una de las guerras y un mapa.  https://latam.historyplay.tv/hoy-en-la-historia/guerra-entre-brasil-y-argentina-por-la-posesion-de-la-banda-oriental",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 16 de February de 2021, 21:47"
+  },
+  {
+    "Title": "Link períodos unitarios-federales",
+    "Text": "https://www.todo-argentina.net/historia-argentina/unitarios-y-federales/unitarios-federales.php?idhijo=31",
+    "Autor": "MORE-GUZMAN CAROLINA BELEN",
+    "Timestamp": "Tuesday, 16 de February de 2021, 22:16"
+  },
+  {
+    "Title": "Carta Tematica ",
+    "Text": "Generé un documento de Google en el cual transcribí los apuntes de la clase del 9/2, allí marqué con diferentes colores lo que quizás nos resulté útil como gúía de la info que necesitamos para generar los mapas. Se los comparto: https://docs.google.com/document/d/1Dr8sOlJKCIvgmTXrqKaOW3TeM1ZBOr_K-78jJdIT5mM/edit?usp=sharing",
+    "Autor": "KANYEAS ATHINA",
+    "Timestamp": "Thursday, 18 de February de 2021, 18:43"
+  },
+  {
+    "Title": "Fajas meridianas",
+    "Text": "Añadiendo a la nota #339 las #fajas son: 1 (-72°), 2 (-69°), 3 (-66°), 4 (-63°), 5 (-60°), 6 (-57°) y 7 (-54°).",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 18 de February de 2021, 20:07"
+  },
+  {
+    "Title": "Representación en Argentina",
+    "Text": "De acuerdo a la nota #335, si Y'=0 (meridiano central): Y=1500000 (N=1); Y=2500000 (N=2); Y=3500000 (N=3); Y=4500000 (N=4); Y=5500000 (N=5); Y=650000 (N=6); Y=7500000 (N=7). ",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 18 de February de 2021, 20:27"
+  },
+  {
+    "Title": "Batalla de Caseros",
+    "Text": "Link sobre la batalla de Caseros: https://es.wikipedia.org/wiki/Batalla_de_Caseros#tematica",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 18 de February de 2021, 20:38"
+  },
+  {
+    "Title": "Batalla de Pavón",
+    "Text": "Link sobre la batalla de Pavón: https://es.wikipedia.org/wiki/Batalla_de_Pav%C3%B3n#tematica",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 18 de February de 2021, 20:39"
+  },
+  {
+    "Title": "Batalla de Caaguazú",
+    "Text": "Link sobre la batalla de Caaguazú: https://es.wikipedia.org/wiki/Batalla_de_Caaguaz%C3%BA#tematica",
+    "Autor": "Damadian Alejandro José",
+    "Timestamp": "Thursday, 18 de February de 2021, 20:41"
+  }
+]
